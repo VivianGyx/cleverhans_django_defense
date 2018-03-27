@@ -1,0 +1,2 @@
+model_checkpoint_path: "attack_model"
+all_model_checkpoint_paths: "attack_model"
